@@ -1,4 +1,4 @@
-import "./Bbc.css";
+// import "./Bbc.css";
 import img1 from '../images/eric.jpeg'
 import img2 from '../images/euros.jpeg'
 import img3 from '../images/gab.jpeg'
