@@ -1,6 +1,6 @@
 const Person = (props) => {
     return (
-        <div>
+        <div onClick={props.handleClick}>
             <h2>name: {props.name}</h2>
             <h3>age: {props.age}</h3>
         </div>
